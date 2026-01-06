@@ -41,13 +41,13 @@ A web app for academic institutions to publish and analyze student results.
 ## 🎓 Education
 **B.Sc. CSIT** — Siddhanath Science Campus, Tribhuvan University (2022–Present)
 
----
 
 ## 📄 Resume 
-[Download My Resume](https://rohit1042.github.io/Portfolios/Rohit_Prashad_Pandeya_Resume.pdf) ---
+[Download My Resume](https://rohit1042.github.io/Portfolios/RohitPrashadPandeya.pdf)
 
 ## 🌱 Interests
 Cloud Computing • DevOps • UI/UX Design • Open Source Contribution
 
+---
 
 ✨ *“Code is like art — every line should be crafted with clarity and purpose.”*
