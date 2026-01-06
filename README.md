@@ -2,7 +2,7 @@
 **Full Stack Web Developer | Graphics Designer**
 
 🌍 Based in Mahendranagar, Nepal  
-📧 rohit.785421@snsc.tu.edu.np | [GitHub](https://github.com/Rohit1042)
+📧 rohit.785421@snsc.tu.edu.np | [GitHub](https://github.com/Rohit1042) | [LinkedIn](https://www.linkedin.com/in/rohitprashadpandeya/)
 
 ---
 
@@ -43,5 +43,11 @@ A web app for academic institutions to publish and analyze student results.
 
 ---
 
+## 📄 Resume 
+[Download My Resume](https://rohit1042.github.io/Portfolios/Rohit_Prashad_Pandeya_Resume.pdf) ---
+
 ## 🌱 Interests
 Cloud Computing • DevOps • UI/UX Design • Open Source Contribution
+
+
+✨ *“Code is like art — every line should be crafted with clarity and purpose.”*
